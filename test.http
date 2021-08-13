@@ -28,7 +28,7 @@ Accept: application/json
 
 ### Get product
 
-GET http://localhost:8080/api/products/A0001
+GET http://localhost:8080/api/products/A0010
 X-Api-Key: SECRET
 Accept: application/json
 
