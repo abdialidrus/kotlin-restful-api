@@ -1,8 +1,6 @@
 package com.abdialidrus.kotlinrestfulapi.controller
 
-import com.abdialidrus.kotlinrestfulapi.model.CreateProductRequest
-import com.abdialidrus.kotlinrestfulapi.model.ProductResponse
-import com.abdialidrus.kotlinrestfulapi.model.WebResponse
+import com.abdialidrus.kotlinrestfulapi.model.*
 import com.abdialidrus.kotlinrestfulapi.service.ProductService
 import org.springframework.web.bind.annotation.*
 
